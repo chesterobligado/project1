@@ -1,0 +1,8 @@
+@charset "utf-8";
+.jumbotron{
+	background-image:url(img/intersection.png);
+}
+
+#cardsection{
+	background:#3D3D3D;
+}
